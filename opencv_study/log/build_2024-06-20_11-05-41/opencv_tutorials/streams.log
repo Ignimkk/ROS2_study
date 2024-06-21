@@ -1,0 +1,31 @@
+[0.655s] Invoking command in '/home/addinedu/opencv_study/src/opencv_tutorials': PYTHONPATH=/home/addinedu/opencv_study/build/opencv_tutorials/prefix_override:/home/addinedu/opencv_study/install/opencv_tutorials/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/opencv_tutorials build --build-base /home/addinedu/opencv_study/build/opencv_tutorials/build install --record /home/addinedu/opencv_study/build/opencv_tutorials/install.log --single-version-externally-managed install_data
+[0.865s] running egg_info
+[0.880s] writing ../../build/opencv_tutorials/opencv_tutorials.egg-info/PKG-INFO
+[0.881s] writing dependency_links to ../../build/opencv_tutorials/opencv_tutorials.egg-info/dependency_links.txt
+[0.881s] writing entry points to ../../build/opencv_tutorials/opencv_tutorials.egg-info/entry_points.txt
+[0.881s] writing requirements to ../../build/opencv_tutorials/opencv_tutorials.egg-info/requires.txt
+[0.881s] writing top-level names to ../../build/opencv_tutorials/opencv_tutorials.egg-info/top_level.txt
+[1.006s] reading manifest file '../../build/opencv_tutorials/opencv_tutorials.egg-info/SOURCES.txt'
+[1.007s] writing manifest file '../../build/opencv_tutorials/opencv_tutorials.egg-info/SOURCES.txt'
+[1.007s] running build
+[1.007s] running build_py
+[1.007s] copying opencv_tutorials/img_publisher.py -> /home/addinedu/opencv_study/build/opencv_tutorials/build/lib/opencv_tutorials
+[1.007s] copying opencv_tutorials/__init__.py -> /home/addinedu/opencv_study/build/opencv_tutorials/build/lib/opencv_tutorials
+[1.007s] copying opencv_tutorials/img_subscriber.py -> /home/addinedu/opencv_study/build/opencv_tutorials/build/lib/opencv_tutorials
+[1.007s] running install
+[1.012s] running install_lib
+[1.028s] copying /home/addinedu/opencv_study/build/opencv_tutorials/build/lib/opencv_tutorials/img_subscriber.py -> /home/addinedu/opencv_study/install/opencv_tutorials/lib/python3.10/site-packages/opencv_tutorials
+[1.028s] byte-compiling /home/addinedu/opencv_study/install/opencv_tutorials/lib/python3.10/site-packages/opencv_tutorials/img_subscriber.py to img_subscriber.cpython-310.pyc
+[1.029s] running install_data
+[1.029s] copying resource/opencv_tutorials -> /home/addinedu/opencv_study/install/opencv_tutorials/share/ament_index/resource_index/packages
+[1.029s] copying package.xml -> /home/addinedu/opencv_study/install/opencv_tutorials/share/opencv_tutorials
+[1.029s] copying launch/camera.launch.py -> /home/addinedu/opencv_study/install/opencv_tutorials/share/opencv_tutorials/launch
+[1.029s] copying param/size.yaml -> /home/addinedu/opencv_study/install/opencv_tutorials/share/opencv_tutorials/param
+[1.029s] running install_egg_info
+[1.045s] removing '/home/addinedu/opencv_study/install/opencv_tutorials/lib/python3.10/site-packages/opencv_tutorials-0.0.0-py3.10.egg-info' (and everything under it)
+[1.045s] Copying ../../build/opencv_tutorials/opencv_tutorials.egg-info to /home/addinedu/opencv_study/install/opencv_tutorials/lib/python3.10/site-packages/opencv_tutorials-0.0.0-py3.10.egg-info
+[1.046s] running install_scripts
+[1.082s] Installing img_publisher script to /home/addinedu/opencv_study/install/opencv_tutorials/lib/opencv_tutorials
+[1.083s] Installing img_subscriber script to /home/addinedu/opencv_study/install/opencv_tutorials/lib/opencv_tutorials
+[1.083s] writing list of installed files to '/home/addinedu/opencv_study/build/opencv_tutorials/install.log'
+[1.099s] Invoked command in '/home/addinedu/opencv_study/src/opencv_tutorials' returned '0': PYTHONPATH=/home/addinedu/opencv_study/build/opencv_tutorials/prefix_override:/home/addinedu/opencv_study/install/opencv_tutorials/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/opencv_tutorials build --build-base /home/addinedu/opencv_study/build/opencv_tutorials/build install --record /home/addinedu/opencv_study/build/opencv_tutorials/install.log --single-version-externally-managed install_data

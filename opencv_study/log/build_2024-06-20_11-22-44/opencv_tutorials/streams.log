@@ -1,0 +1,45 @@
+[0.652s] Invoking command in '/home/addinedu/opencv_study/src/opencv_tutorials': PYTHONPATH=/home/addinedu/opencv_study/build/opencv_tutorials/prefix_override:/home/addinedu/opencv_study/install/opencv_tutorials/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/opencv_tutorials build --build-base /home/addinedu/opencv_study/build/opencv_tutorials/build install --record /home/addinedu/opencv_study/build/opencv_tutorials/install.log --single-version-externally-managed install_data
+[0.864s] running egg_info
+[0.881s] writing ../../build/opencv_tutorials/opencv_tutorials.egg-info/PKG-INFO
+[0.881s] writing dependency_links to ../../build/opencv_tutorials/opencv_tutorials.egg-info/dependency_links.txt
+[0.881s] writing entry points to ../../build/opencv_tutorials/opencv_tutorials.egg-info/entry_points.txt
+[0.882s] writing requirements to ../../build/opencv_tutorials/opencv_tutorials.egg-info/requires.txt
+[0.882s] writing top-level names to ../../build/opencv_tutorials/opencv_tutorials.egg-info/top_level.txt
+[1.009s] reading manifest file '../../build/opencv_tutorials/opencv_tutorials.egg-info/SOURCES.txt'
+[1.010s] writing manifest file '../../build/opencv_tutorials/opencv_tutorials.egg-info/SOURCES.txt'
+[1.010s] running build
+[1.010s] running build_py
+[1.010s] copying opencv_tutorials/img_publisher.py -> /home/addinedu/opencv_study/build/opencv_tutorials/build/lib/opencv_tutorials
+[1.011s] copying opencv_tutorials/img_control.py -> /home/addinedu/opencv_study/build/opencv_tutorials/build/lib/opencv_tutorials
+[1.011s] copying opencv_tutorials/__init__.py -> /home/addinedu/opencv_study/build/opencv_tutorials/build/lib/opencv_tutorials
+[1.011s] copying opencv_tutorials/img_subscriber.py -> /home/addinedu/opencv_study/build/opencv_tutorials/build/lib/opencv_tutorials
+[1.011s] copying opencv_tutorials/edge.py -> /home/addinedu/opencv_study/build/opencv_tutorials/build/lib/opencv_tutorials
+[1.011s] copying opencv_tutorials/cartoon.py -> /home/addinedu/opencv_study/build/opencv_tutorials/build/lib/opencv_tutorials
+[1.011s] copying opencv_tutorials/optical_flow.py -> /home/addinedu/opencv_study/build/opencv_tutorials/build/lib/opencv_tutorials
+[1.011s] running install
+[1.016s] running install_lib
+[1.032s] copying /home/addinedu/opencv_study/build/opencv_tutorials/build/lib/opencv_tutorials/img_control.py -> /home/addinedu/opencv_study/install/opencv_tutorials/lib/python3.10/site-packages/opencv_tutorials
+[1.032s] copying /home/addinedu/opencv_study/build/opencv_tutorials/build/lib/opencv_tutorials/edge.py -> /home/addinedu/opencv_study/install/opencv_tutorials/lib/python3.10/site-packages/opencv_tutorials
+[1.033s] copying /home/addinedu/opencv_study/build/opencv_tutorials/build/lib/opencv_tutorials/cartoon.py -> /home/addinedu/opencv_study/install/opencv_tutorials/lib/python3.10/site-packages/opencv_tutorials
+[1.033s] copying /home/addinedu/opencv_study/build/opencv_tutorials/build/lib/opencv_tutorials/optical_flow.py -> /home/addinedu/opencv_study/install/opencv_tutorials/lib/python3.10/site-packages/opencv_tutorials
+[1.033s] byte-compiling /home/addinedu/opencv_study/install/opencv_tutorials/lib/python3.10/site-packages/opencv_tutorials/img_control.py to img_control.cpython-310.pyc
+[1.034s] byte-compiling /home/addinedu/opencv_study/install/opencv_tutorials/lib/python3.10/site-packages/opencv_tutorials/edge.py to edge.cpython-310.pyc
+[1.034s] byte-compiling /home/addinedu/opencv_study/install/opencv_tutorials/lib/python3.10/site-packages/opencv_tutorials/cartoon.py to cartoon.cpython-310.pyc
+[1.034s] byte-compiling /home/addinedu/opencv_study/install/opencv_tutorials/lib/python3.10/site-packages/opencv_tutorials/optical_flow.py to optical_flow.cpython-310.pyc
+[1.035s] running install_data
+[1.035s] copying resource/opencv_tutorials -> /home/addinedu/opencv_study/install/opencv_tutorials/share/ament_index/resource_index/packages
+[1.035s] copying package.xml -> /home/addinedu/opencv_study/install/opencv_tutorials/share/opencv_tutorials
+[1.035s] copying launch/camera.launch.py -> /home/addinedu/opencv_study/install/opencv_tutorials/share/opencv_tutorials/launch
+[1.035s] copying param/size.yaml -> /home/addinedu/opencv_study/install/opencv_tutorials/share/opencv_tutorials/param
+[1.036s] running install_egg_info
+[1.052s] removing '/home/addinedu/opencv_study/install/opencv_tutorials/lib/python3.10/site-packages/opencv_tutorials-0.0.0-py3.10.egg-info' (and everything under it)
+[1.052s] Copying ../../build/opencv_tutorials/opencv_tutorials.egg-info to /home/addinedu/opencv_study/install/opencv_tutorials/lib/python3.10/site-packages/opencv_tutorials-0.0.0-py3.10.egg-info
+[1.053s] running install_scripts
+[1.090s] Installing cartoon script to /home/addinedu/opencv_study/install/opencv_tutorials/lib/opencv_tutorials
+[1.091s] Installing edge script to /home/addinedu/opencv_study/install/opencv_tutorials/lib/opencv_tutorials
+[1.091s] Installing img_control script to /home/addinedu/opencv_study/install/opencv_tutorials/lib/opencv_tutorials
+[1.091s] Installing img_publisher script to /home/addinedu/opencv_study/install/opencv_tutorials/lib/opencv_tutorials
+[1.091s] Installing img_subscriber script to /home/addinedu/opencv_study/install/opencv_tutorials/lib/opencv_tutorials
+[1.091s] Installing optical_flow script to /home/addinedu/opencv_study/install/opencv_tutorials/lib/opencv_tutorials
+[1.091s] writing list of installed files to '/home/addinedu/opencv_study/build/opencv_tutorials/install.log'
+[1.109s] Invoked command in '/home/addinedu/opencv_study/src/opencv_tutorials' returned '0': PYTHONPATH=/home/addinedu/opencv_study/build/opencv_tutorials/prefix_override:/home/addinedu/opencv_study/install/opencv_tutorials/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/opencv_tutorials build --build-base /home/addinedu/opencv_study/build/opencv_tutorials/build install --record /home/addinedu/opencv_study/build/opencv_tutorials/install.log --single-version-externally-managed install_data

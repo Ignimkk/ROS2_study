@@ -1,0 +1,38 @@
+[0.810s] Invoking command in '/home/addinedu/ros2_ws/build/my_first_package': PYTHONPATH=/home/addinedu/ros2_ws/build/my_first_package/prefix_override:/home/addinedu/ros2_ws/install/my_first_package/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/addinedu/ros2_ws/build/my_first_package/build --no-deps symlink_data --force
+[1.119s] running develop
+[1.119s] /home/addinedu/.local/lib/python3.10/site-packages/setuptools/command/develop.py:42: EasyInstallDeprecationWarning: easy_install command is deprecated.
+[1.119s] !!
+[1.120s] 
+[1.120s]         ********************************************************************************
+[1.120s]         Please avoid running ``setup.py`` and ``easy_install``.
+[1.120s]         Instead, use pypa/build, pypa/installer or other
+[1.120s]         standards-based tools.
+[1.120s] 
+[1.120s]         See https://github.com/pypa/setuptools/issues/917 for details.
+[1.120s]         ********************************************************************************
+[1.120s] 
+[1.120s] !!
+[1.120s]   easy_install.initialize_options(self)
+[1.342s] running egg_info
+[1.358s] writing my_first_package.egg-info/PKG-INFO
+[1.358s] writing dependency_links to my_first_package.egg-info/dependency_links.txt
+[1.359s] writing entry points to my_first_package.egg-info/entry_points.txt
+[1.359s] writing requirements to my_first_package.egg-info/requires.txt
+[1.359s] writing top-level names to my_first_package.egg-info/top_level.txt
+[1.399s] reading manifest file 'my_first_package.egg-info/SOURCES.txt'
+[1.400s] writing manifest file 'my_first_package.egg-info/SOURCES.txt'
+[1.417s] running build_ext
+[1.418s] Creating /home/addinedu/ros2_ws/install/my_first_package/lib/python3.10/site-packages/my-first-package.egg-link (link to .)
+[1.418s] Installing dist_turtle_action_server script to /home/addinedu/ros2_ws/install/my_first_package/lib/my_first_package
+[1.419s] Installing my_first_node script to /home/addinedu/ros2_ws/install/my_first_package/lib/my_first_package
+[1.419s] Installing my_multi_thread script to /home/addinedu/ros2_ws/install/my_first_package/lib/my_first_package
+[1.419s] Installing my_publisher script to /home/addinedu/ros2_ws/install/my_first_package/lib/my_first_package
+[1.419s] Installing my_service_server script to /home/addinedu/ros2_ws/install/my_first_package/lib/my_first_package
+[1.419s] Installing my_subscriber script to /home/addinedu/ros2_ws/install/my_first_package/lib/my_first_package
+[1.420s] Installing turtle_cmd_and_pose script to /home/addinedu/ros2_ws/install/my_first_package/lib/my_first_package
+[1.420s] 
+[1.420s] Installed /home/addinedu/ros2_ws/build/my_first_package
+[1.420s] running symlink_data
+[1.420s] symbolically linking /home/addinedu/ros2_ws/build/my_first_package/resource/my_first_package -> /home/addinedu/ros2_ws/install/my_first_package/share/ament_index/resource_index/packages
+[1.420s] symbolically linking /home/addinedu/ros2_ws/build/my_first_package/package.xml -> /home/addinedu/ros2_ws/install/my_first_package/share/my_first_package
+[1.447s] Invoked command in '/home/addinedu/ros2_ws/build/my_first_package' returned '0': PYTHONPATH=/home/addinedu/ros2_ws/build/my_first_package/prefix_override:/home/addinedu/ros2_ws/install/my_first_package/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/addinedu/ros2_ws/build/my_first_package/build --no-deps symlink_data --force

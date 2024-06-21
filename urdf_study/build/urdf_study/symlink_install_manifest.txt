@@ -1,0 +1,15 @@
+/home/addinedu/urdf_study/install/urdf_study/share/ament_index/resource_index/package_run_dependencies/urdf_study
+/home/addinedu/urdf_study/install/urdf_study/share/ament_index/resource_index/parent_prefix_path/urdf_study
+/home/addinedu/urdf_study/install/urdf_study/share/urdf_study/environment/ament_prefix_path.sh
+/home/addinedu/urdf_study/install/urdf_study/share/urdf_study/environment/ament_prefix_path.dsv
+/home/addinedu/urdf_study/install/urdf_study/share/urdf_study/environment/path.sh
+/home/addinedu/urdf_study/install/urdf_study/share/urdf_study/environment/path.dsv
+/home/addinedu/urdf_study/install/urdf_study/share/urdf_study/local_setup.bash
+/home/addinedu/urdf_study/install/urdf_study/share/urdf_study/local_setup.sh
+/home/addinedu/urdf_study/install/urdf_study/share/urdf_study/local_setup.zsh
+/home/addinedu/urdf_study/install/urdf_study/share/urdf_study/local_setup.dsv
+/home/addinedu/urdf_study/install/urdf_study/share/urdf_study/package.dsv
+/home/addinedu/urdf_study/install/urdf_study/share/ament_index/resource_index/packages/urdf_study
+/home/addinedu/urdf_study/install/urdf_study/share/urdf_study/cmake/urdf_studyConfig.cmake
+/home/addinedu/urdf_study/install/urdf_study/share/urdf_study/cmake/urdf_studyConfig-version.cmake
+/home/addinedu/urdf_study/install/urdf_study/share/urdf_study/package.xml

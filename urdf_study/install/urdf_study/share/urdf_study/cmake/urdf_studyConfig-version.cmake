@@ -1,0 +1,1 @@
+/home/addinedu/urdf_study/build/urdf_study/ament_cmake_core/urdf_studyConfig-version.cmake

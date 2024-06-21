@@ -1,0 +1,5 @@
+/home/addinedu/urdf_study/install/urdf_study/share/urdf_study/launch/simple_display.launch.py
+/home/addinedu/urdf_study/install/urdf_study/share/urdf_study/urdf/test.urdf
+/home/addinedu/urdf_study/install/urdf_study/share/urdf_study/urdf/myfirst.urdf
+/home/addinedu/urdf_study/install/urdf_study/share/urdf_study/urdf/pan_tilt.urdf
+/home/addinedu/urdf_study/install/urdf_study/share/urdf_study/rviz/urdf.rviz
